@@ -14,8 +14,11 @@
 ## Beloi Geometry: POINT(125.63097187932082 -8.231117606901234)
 ## Values from graph: v(t): value vs. time
 
+# install.packages("tidyverse")
 library(tidyverse)
+# install.packages("patchwork")
 library(patchwork)
+# install.packages("zoo")
 library(zoo)
 # install.packages("ggtext")
 library(ggtext) # ggplot superscript in label
