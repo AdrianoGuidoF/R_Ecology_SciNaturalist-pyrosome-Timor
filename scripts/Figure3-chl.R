@@ -17,6 +17,7 @@
 library(tidyverse)
 library(patchwork)
 library(zoo)
+# install.packages("ggtext")
 library(ggtext) # ggplot superscript in label
 
 # read in Behau and Beloi Chl a data
